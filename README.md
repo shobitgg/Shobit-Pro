@@ -1,12 +1,19 @@
-#shob
+<h3 align="left">
+ <abc>
+  <h1>Hey, thanks for visting ! lets connect <img src="https://emojis.slackmojis.com/emojis/images/1500425901/2646/allo-happy.gif?1500425901" width="30"/> </h1>
+  <br> I'm Shobit 👨🏻‍💻 <br>
+  <br> I look forward to gain lots of knowledge with experience👨‍🏭, collaborate🤝 and build amazing products 🏭for the world🌍! <br>
+  <br>
+  
+ </abc>
+</h3> 
 
-
-Hi there wave
 - I’m currently working on - python, serverless, DevOps, Containers, Kubernetes
-- I’m currently learning - DevOps with kubernetes, python flask, CNCF tools, AI/ML
+- I’m currently learning - DevOps with kubernetes, python flask, , AI/ML
 - Ask me about - python, serverless, DevOps, scaling applications in cloud, communities, traveling & more
-- How to reach me - Gmail @shobitg123@gmail.com | shobitganagadhar@gmail.com
-
+- How to reach me - Gmail @ shobitganagadhar@gmail.com | shobitg123@gmail.com
+ <h4> Love to  </h4>
+<h5><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></h5>
 
 # Badges 
 
@@ -17,3 +24,12 @@ Hi there wave
 ![](https://images.credly.com/size/110x110/images/b3fc56fe-3146-428d-b379-68a3490d259f/Containers___Kubernetes_Essentials.png)
 ![](https://images.credly.com/size/110x110/images/a599fdbf-b61c-4dab-a855-508c28fc16c3/Cloud_Fundamentals.png)
 ![](https://images.credly.com/size/110x110/images/b0607951-b6f7-47d0-af16-7112971ab2ef/Cloud_Core_-_Developer_Skills_Network_-_v3.png)
+
+
+
+  
+ 
+
+
+
+
