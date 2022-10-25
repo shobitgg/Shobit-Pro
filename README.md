@@ -9,7 +9,7 @@
 </h3> 
 
 - I’m currently working on - python, serverless, DevOps, Containers, Kubernetes
-- I’m currently learning - DevOps with kubernetes, python flask, , AI/ML
+- I’m currently learning - DevSecOps with kubernetes, python , GoLang ,etc
 - Ask me about - python, serverless, DevOps, scaling applications in cloud, communities, traveling & more
 - How to reach me - Gmail @ shobitganagadhar@gmail.com | shobitg123@gmail.com
  <h4> Love to  </h4>
