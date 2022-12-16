@@ -1,4 +1,4 @@
-![BannerGIF](http://sabirpiludiya.ml/images/animations/banner.gif)
+
 
 ### Heya ! whats up
 ### 👨🏻‍💻 &nbsp;About Me
