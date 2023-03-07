@@ -4,7 +4,7 @@
 ![](https://images.credly.com/size/120x120/images/21f1ee2e-1ead-45c4-b2a8-1d08760440f6/Advanced_Kubernetes_Operators.png)
 ![](https://images.credly.com/size/120x120/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png)
 ![](https://images.credly.com/size/120x120/images/b3fc56fe-3146-428d-b379-68a3490d259f/Containers___Kubernetes_Essentials.png)
-![](https://images.credly.com/size/120x120/images/a599fdbf-b61c-4dab-a855-508c28fc16c3/Cloud_Fundamentals.png)
+[](https://images.credly.com/size/120x120/images/a599fdbf-b61c-4dab-a855-508c28fc16c3/Cloud_Fundamentals.png)
 ![](https://images.credly.com/size/120x120/images/b0607951-b6f7-47d0-af16-7112971ab2ef/Cloud_Core_-_Developer_Skills_Network_-_v3.png)
 
 
