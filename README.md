@@ -23,7 +23,7 @@
 - I’m currently learning - DevSecOps with kubernetes, python , GoLang ,etc
 - Ask me about - python, serverless, DevOps, scaling applications in cloud, communities, traveling & more
 - How to reach me - Gmail @ shobitganagadhar@gmail.com | shobitg123@gmail.com
- <h4> Love to  </h4>
+ <h4> I Love technology and innovation !!  </h4>
 <h5><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></h5>
 
 
