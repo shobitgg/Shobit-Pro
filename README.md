@@ -1,4 +1,4 @@
-![](https://www.credly.com/badges/77022c32-b227-4040-a092-489288897c9b/public_url)
+![](https://images.credly.com/size/110x110/images/77022c32-b227-4040-a092-489288897c9b/public_url)
 ![](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)
 ![](https://images.credly.com/size/110x110/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png)
 ![](https://images.credly.com/size/110x110/images/21f1ee2e-1ead-45c4-b2a8-1d08760440f6/Advanced_Kubernetes_Operators.png)
