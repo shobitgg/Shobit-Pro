@@ -13,7 +13,7 @@
  <abc>
   <h1>Hey, thanks for visting ! I'm Shobit 👨🏻‍💻 .. lets connect!! <img src="https://emojis.slackmojis.com/emojis/images/1500425901/2646/allo-happy.gif?1500425901" width="30"/> </h1>
   
-  <br> I look forward to gain lots of knowledge with experience👨‍🏭, collaborate🤝 and build amazing products 🏭for the world🌍! <br>
+  <br> I look forward to work with innovative folks👨‍🏭, collaborate🤝 and build amazing products 🏭for the world🌍! <br>
   <br>
   
  </abc>
