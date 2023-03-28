@@ -14,12 +14,12 @@
   <h1>Hey, thanks for visting ! I'm Shobit 👨🏻‍💻 .. lets connect!! <img src="https://emojis.slackmojis.com/emojis/images/1500425901/2646/allo-happy.gif?1500425901" width="30"/> </h1>
   
   <br> I look forward to work with innovative folks👨‍🏭, collaborate🤝 and build amazing products 🏭for the world🌍! <br>
-  <br>
+  <br> 
   
  </abc>
 </h3> 
 
-- I’m currently working on - python, serverless, DevOps, Containers, Kubernetes
+- I’m currently working on - python, serverless, DevSecOps, Containers, Kubernetes 
 - I’m currently learning - DevSecOps with kubernetes, python , GoLang ,etc
 - Ask me about - python, serverless, DevOps, scaling applications in cloud, communities, traveling & more
 - How to reach me - Gmail @ shobitganagadhar@gmail.com | shobitg123@gmail.com
