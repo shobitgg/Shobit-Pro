@@ -12,6 +12,7 @@
 <h3 align="left">
  <abc>
   <h1>Hey, thanks for visting ! I'm Shobit 👨🏻‍💻 .. lets connect!! <img src="https://emojis.slackmojis.com/emojis/images/1500425901/2646/allo-happy.gif?1500425901" width="30"/> </h1>
+  <h3> How to reach me - Gmail @ shobitganagadhar@gmail.com </h3>
   
   <br> I look forward to work with innovative folks👨‍🏭, collaborate🤝 and build amazing products 🏭for the world🌍! <br>
   <br> 
@@ -19,10 +20,10 @@
  </abc>
 </h3> 
 
-- I’m currently working on - python, serverless, DevSecOps, Containers, Kubernetes 
-- I’m currently learning - DevSecOps with kubernetes, python , GoLang ,etc
-- Ask me about - python, serverless, DevOps, scaling applications in cloud, communities, traveling & more
-- How to reach me - Gmail @ shobitganagadhar@gmail.com | shobitg123@gmail.com
+- I’m currently working on - python, DevSecOps, Containers, Kubernetes , AWS , Azure , Terraform (Infrastructure as Code)
+- I’m currently learning -  GoLang , serverless Deployment etc
+- Ask me about - Anything and Everything in Cloud and DevSecOps . Will try to get back with every message :)
+- How to reach me - Gmail @ shobitganagadhar@gmail.com 
  <h4> I Love technology and innovation !!  </h4>
 <h5><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></h5>
 
