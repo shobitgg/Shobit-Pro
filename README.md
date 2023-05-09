@@ -23,7 +23,7 @@
 - I’m currently working on - python, DevSecOps, Containers, Kubernetes , AWS , Azure , Terraform (Infrastructure as Code)
 - I’m currently learning -  GoLang , serverless Deployment etc
 - Ask me about - Anything and Everything in Cloud and DevSecOps . Will try to get back with every message :)
-- How to reach me - Gmail @ shobitganagadhar@gmail.com 
+
  <h4> I Love technology and innovation !!  </h4>
 <h5><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></h5>
 
